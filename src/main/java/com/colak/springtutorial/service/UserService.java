@@ -1,7 +1,7 @@
-package com.colak.springreactiveloggingtutorial.service;
+package com.colak.springtutorial.service;
 
-import com.colak.springreactiveloggingtutorial.jpa.User;
-import com.colak.springreactiveloggingtutorial.repository.UserRepository;
+import com.colak.springtutorial.jpa.User;
+import com.colak.springtutorial.repository.UserRepository;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.stereotype.Service;
@@ -9,8 +9,8 @@ import reactor.core.publisher.Flux;
 
 @Service
 
-@Slf4j
 @RequiredArgsConstructor
+@Slf4j
 public class UserService {
 
     private final UserRepository userRepository;

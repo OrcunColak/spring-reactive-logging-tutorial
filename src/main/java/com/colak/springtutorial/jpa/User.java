@@ -1,4 +1,4 @@
-package com.colak.springreactiveloggingtutorial.jpa;
+package com.colak.springtutorial.jpa;
 
 
 import jakarta.validation.constraints.NotBlank;

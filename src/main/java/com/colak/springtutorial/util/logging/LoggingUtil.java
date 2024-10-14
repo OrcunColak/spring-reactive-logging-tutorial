@@ -1,4 +1,4 @@
-package com.colak.springreactiveloggingtutorial.util.logging;
+package com.colak.springtutorial.util.logging;
 
 import org.slf4j.MDC;
 import org.springframework.http.HttpHeaders;

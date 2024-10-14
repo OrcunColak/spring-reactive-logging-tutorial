@@ -1,6 +1,6 @@
-package com.colak.springreactiveloggingtutorial.repository;
+package com.colak.springtutorial.repository;
 
-import com.colak.springreactiveloggingtutorial.jpa.User;
+import com.colak.springtutorial.jpa.User;
 import org.springframework.data.r2dbc.repository.Query;
 import org.springframework.data.repository.reactive.ReactiveCrudRepository;
 import org.springframework.stereotype.Repository;

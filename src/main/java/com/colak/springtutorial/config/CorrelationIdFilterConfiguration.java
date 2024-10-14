@@ -1,6 +1,6 @@
-package com.colak.springreactiveloggingtutorial.config;
+package com.colak.springtutorial.config;
 
-import com.colak.springreactiveloggingtutorial.util.logging.LoggingUtil;
+import com.colak.springtutorial.util.logging.LoggingUtil;
 import lombok.extern.slf4j.Slf4j;
 import org.slf4j.MDC;
 import org.springframework.context.annotation.Configuration;

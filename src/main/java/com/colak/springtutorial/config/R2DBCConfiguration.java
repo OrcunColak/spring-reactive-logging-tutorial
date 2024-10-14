@@ -1,4 +1,4 @@
-package com.colak.springreactiveloggingtutorial.config;
+package com.colak.springtutorial.config;
 
 import io.r2dbc.spi.ConnectionFactory;
 import org.springframework.context.annotation.Bean;

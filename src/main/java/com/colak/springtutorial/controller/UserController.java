@@ -1,7 +1,7 @@
-package com.colak.springreactiveloggingtutorial.controller;
+package com.colak.springtutorial.controller;
 
-import com.colak.springreactiveloggingtutorial.jpa.User;
-import com.colak.springreactiveloggingtutorial.service.UserService;
+import com.colak.springtutorial.jpa.User;
+import com.colak.springtutorial.service.UserService;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.web.bind.annotation.GetMapping;

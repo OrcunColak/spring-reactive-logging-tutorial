@@ -1,4 +1,4 @@
-package com.colak.springreactiveloggingtutorial.exception;
+package com.colak.springtutorial.exception;
 
 
 public class CustomRuntimeException extends RuntimeException {

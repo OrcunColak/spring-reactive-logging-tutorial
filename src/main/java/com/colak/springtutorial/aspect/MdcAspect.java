@@ -1,8 +1,8 @@
-package com.colak.springreactiveloggingtutorial.aspect;
+package com.colak.springtutorial.aspect;
 
 
-import com.colak.springreactiveloggingtutorial.exception.CustomRuntimeException;
-import com.colak.springreactiveloggingtutorial.util.logging.LoggingUtil;
+import com.colak.springtutorial.exception.CustomRuntimeException;
+import com.colak.springtutorial.util.logging.LoggingUtil;
 import lombok.SneakyThrows;
 import lombok.extern.slf4j.Slf4j;
 import org.aspectj.lang.ProceedingJoinPoint;
